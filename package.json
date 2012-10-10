@@ -1,0 +1,12 @@
+{
+    "name": "rssreader"
+  , "version": "0.0.1"
+  , "node": "0.8.1"
+  , "dependencies": {
+      "xml-simple": ""
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  }
+}
